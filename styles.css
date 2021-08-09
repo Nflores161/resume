@@ -1,0 +1,54 @@
+/* universal styles */
+html, body {
+  margin: auto;
+  max-width: 90%;
+  font-family: 'Arial', sans-serif;
+}
+
+/* link styling */
+a:link {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: rgb(235, 8, 8);
+  text-decoration: underline;
+}
+
+/* section title spacing and centering */
+.secTitle {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+/* line height spacing for div's and p's */
+#nameTitle {
+  margin-bottom: .5px;
+  margin-top: 2em;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/* flex for experience and date section layout */
+
+.flexContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* footer spacing */
+
+footer {
+  margin: 4em;
+}
