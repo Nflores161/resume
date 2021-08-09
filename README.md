@@ -4,4 +4,4 @@
 
 -Resume is made purely of HTML and CSS.
 
--All materials are contained are current and updated last on 8/9/21 
+-All materials contained are current and updated last on 8/9/21 
